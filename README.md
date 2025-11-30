@@ -4,6 +4,8 @@ Mini jeu inspiré de Flappy Bird, mais avec une chèvre dans l'espace.
 Le but est d'esquiver des obstacle et d'aller le plus loin possible  
   
 Développé en Python, en utilisant le framework pyxel.  
+
+![from_asset](readme-res/FlappyGoat.gif)
   
 ## Prérequis 
 
